@@ -15,7 +15,7 @@ const MainWrapper = styled(Box)(
         flex: 1 1 auto;
         display: flex;
         flex-direction: column;
-        height: 100%;
+        // height: 100%;
         background-color: #181818;
         
         @media (min-width: ${theme.breakpoints.values.lg}px) {
